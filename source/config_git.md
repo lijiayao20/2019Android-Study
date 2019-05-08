@@ -1,6 +1,6 @@
 请第一次提交代码的同学遵照以下步骤来部署你的代码。(此处假设你已经注册了Github账号，安装并且配置好了Git)
 
-- 到[CQUPTBeeAndroid学习培训体系][https://github.com/CQUPTBeeAndroid/2019Android-Study],把`CQUPTBeeAndroid/2019Android-Study`这个项目Fork到你自己的项目。<br/>
+- 到[CQUPTBeeAndroid学习培训体系](https://github.com/CQUPTBeeAndroid/2019Android-Study)，把`CQUPTBeeAndroid/2019Android-Study`这个项目Fork到你自己的项目。<br/>
 
   ![fork项目](/source/fork.png)
 
