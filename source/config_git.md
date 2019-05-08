@@ -2,7 +2,7 @@
 
 - 到[CQUPTBeeAndroid学习培训体系](https://github.com/CQUPTBeeAndroid/2019Android-Study)，把`CQUPTBeeAndroid/2019Android-Study`这个项目Fork到你自己的项目。<br/>
 
-  ![fork项目](/source/fork.png)
+  [](/source/fork.png)
 
 - 在你自己电脑上创建一个文件夹,比如命名为`AndroidStudy`,然后进入该文件夹
 
