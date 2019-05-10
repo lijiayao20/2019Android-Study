@@ -1,4 +1,4 @@
-# 2019Android-Study
+﻿# 2019Android-Study
 # CQUPTBee安卓开发前期培训体系
 ## 说明 
 
@@ -7,7 +7,7 @@
 
 ## 学习路线 
 
-* [Level1 能力初养成](/source/Stage1.md)
+* [Level5 能力初养成](/source/Stage1.md)
 * [Level2 Android初试探](/source/Stage2.md)
 * [Level3 小有成就](/source/Stage3.md)
 * [Level4 苟有恒，何必三更眠五更起](/source/Stage4.md)
